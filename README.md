@@ -1,6 +1,6 @@
 # AppQuizMaster
 
-## Contexto del Problema
+## Contexto
 Actualmente, muchas personas disfrutan de las aplicaciones de trivia y quizzes como una forma de entretenimiento, aprendizaje o incluso como desafío entre amigos. Sin embargo,
 a menudo las aplicaciones disponibles no ofrecen la flexibilidad de crear quizzes personalizados ni facilitan una adecuada gestión del contenido por parte de los usuarios. 
 Además, algunas no permiten medir adecuadamente el desempeño de los usuarios en los quizzes o carecen de una interfaz sencilla y accesible.
