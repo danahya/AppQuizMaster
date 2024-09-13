@@ -27,7 +27,7 @@ Además, muchas de las plataformas no ofrecen un seguimiento adecuado del desemp
    
 5. Categorías y niveles de dificultad: Los quizzes deben poder ser categorizados por temática (ej. Ciencia, Historia) y tener niveles de dificultad (fácil, medio, difícil).
     
-6.Compartir quizzes: Los usuarios podrán compartir sus quizzes con otros mediante enlaces o dentro de la plataforma.
+6. Compartir quizzes: Los usuarios podrán compartir sus quizzes con otros mediante enlaces o dentro de la plataforma.
 
 7. Estadísticas de desempeño: Se debe permitir a los usuarios visualizar su rendimiento en los quizzes, con datos como preguntas correctas, puntajes y clasificaciones.
 
