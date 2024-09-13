@@ -10,6 +10,9 @@ AppQuizMaster es una aplicación que permite a los usuarios crear, compartir y r
 Con esta herramienta, los usuarios pueden seleccionar temas de interés, crear sus propias preguntas y respuestas, y realizar un seguimiento de su progreso. 
 Esta aplicación está dirigida a personas de todas las edades que deseen mejorar sus conocimientos, jugar con amigos o simplemente divertirse.
 
+Análisis de requerimientos
+
+
 ## *Modelo Relacional*
 ![ModeloRelacional_QuizMaster](https://github.com/user-attachments/assets/36f9b473-2bd4-4736-9055-91f621d90e4a)
 
