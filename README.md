@@ -1,10 +1,10 @@
 # AppQuizMaster
 
-# *DESCRIPCIÓN *
+# *DESCRIPCIÓN*
 AppQuizMaster es una plataforma interactiva diseñada para crear, compartir y resolver quizzes personalizados.
 Pensada tanto para la educación como para el entretenimiento, esta aplicación permite a los usuarios desarrollar sus propios cuestionarios con temáticas variadas, niveles de dificultad y un sistema de retroalimentación basado en estadísticas de desempeño.
 
-# *INTRODUCCIÓN *
+# *INTRODUCCIÓN*
 AppQuizMaster es una aplicación que permite a los usuarios crear, compartir y resolver quizzes de manera sencilla y divertida.
 Con esta herramienta, los usuarios pueden seleccionar temas de interés, crear sus propias preguntas y respuestas, y realizar un seguimiento de su progreso. 
 Esta aplicación está dirigida a personas de todas las edades que deseen mejorar sus conocimientos, jugar con amigos o simplemente divertirse.
