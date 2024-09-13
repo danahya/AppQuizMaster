@@ -47,3 +47,10 @@ Se permitirá compartir quizzes con amigos mediante enlaces.
 Los usuarios podrán ver sus estadísticas: cantidad de preguntas respondidas, porcentaje de aciertos, y rankings semanales de los mejores jugadores.
 
 # *DISEÑO DEL SISTEMA*
+
+![imagen (1)](https://github.com/user-attachments/assets/4bdb6c47-8f85-40f5-9d8a-e0f2ed4bd2b7)
+![imagen (2)](https://github.com/user-attachments/assets/71505763-1f36-4a07-97d6-9055ccbb115e)
+![imagen (3)](https://github.com/user-attachments/assets/4b882b10-72da-4e3b-8dc4-b4c54e576d98)
+![imagen (4)](https://github.com/user-attachments/assets/65da6479-31e9-45cd-9421-6d27aec85b1f)
+![imagen (5)](https://github.com/user-attachments/assets/359a6855-1805-4042-abe5-457b0c8bd137)
+![imagen (6)](https://github.com/user-attachments/assets/156c5fed-5ad9-4f53-8f98-ed9c811ab8df)
