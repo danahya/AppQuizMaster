@@ -1,23 +1,23 @@
 # AppQuizMaster
 
-## *DESCRIPCIÓN*
+# *DESCRIPCIÓN*
 Actualmente, muchas personas disfrutan de las aplicaciones de trivia y quizzes como una forma de entretenimiento, aprendizaje o incluso como desafío entre amigos.
 Sin embargo, a menudo las aplicaciones disponibles no ofrecen la flexibilidad de crear quizzes personalizados ni facilitan una adecuada gestión del contenido por parte de los usuarios. 
 Además, algunas no permiten medir adecuadamente el desempeño de los usuarios en los quizzes o carecen de una interfaz sencilla y accesible.
 
-## *INTRODUCCIÓN*
+# *INTRODUCCIÓN*
 AppQuizMaster es una aplicación que permite a los usuarios crear, compartir y resolver quizzes de manera sencilla y divertida.
 Con esta herramienta, los usuarios pueden seleccionar temas de interés, crear sus propias preguntas y respuestas, y realizar un seguimiento de su progreso. 
 Esta aplicación está dirigida a personas de todas las edades que deseen mejorar sus conocimientos, jugar con amigos o simplemente divertirse.
 
-## *CONTEXTO DEL PROBLEMA*
+# *CONTEXTO DEL PROBLEMA*
 La popularidad de las aplicaciones de quizzes ha crecido significativamente en los últimos años, ya sea como herramientas de educación, entretenimiento o socialización.
 Sin embargo, muchas aplicaciones actuales carecen de flexibilidad y personalización, lo que limita la experiencia del usuario.
 La ausencia de un sistema adecuado para crear quizzes personalizados, compartirlos con otros usuarios y recibir retroalimentación es un desafío en el mercado actual.
 Además, muchas de las plataformas no ofrecen un seguimiento adecuado del desempeño, lo que impide a los usuarios conocer su evolución en el aprendizaje o su éxito en los desafíos.
 
-## *ANÁLISIS DEL REQUERIMIENTOS*
-# Requerimientos Funcionales:
+# *ANÁLISIS DEL REQUERIMIENTOS*
+## Requerimientos Funcionales:
 1. Registro e inicio de sesión de usuarios: Los usuarios deben poder crear una cuenta y acceder con su correo electrónico y contraseña.
 2. Creación de quizzes: Los usuarios deben poder crear quizzes personalizados con sus propias preguntas y respuestas, seleccionando la temática y dificultad.
 3. Resolución de quizzes: Los usuarios pueden responder preguntas dentro de un quiz, con un seguimiento de su progreso y estadísticas.
@@ -29,14 +29,20 @@ Además, muchas de las plataformas no ofrecen un seguimiento adecuado del desemp
 ## *MODELO RELACIONAL*
 ![ModeloRelacional_QuizMaster](https://github.com/user-attachments/assets/36f9b473-2bd4-4736-9055-91f621d90e4a)
 
-## *DESARROLLO DE LA PROPUESTA*
+## Desarrollo de la Propuesta
 Nuestra solución será implementada a través de una aplicación web y móvil donde los usuarios pueden interactuar de manera sencilla con la plataforma. Se crearán las siguientes funcionalidades específicas:
 
-- **Panel de Usuario:** 
+- *Panel de Usuario:* 
 Los usuarios podrán registrarse e iniciar sesión utilizando su correo electrónico.
 
-- **Creación de Quizzes:** 
+- *Creación de Quizzes:* 
 Los usuarios pueden crear un quiz desde cero, añadiendo preguntas y respuestas.
 
-- **Resolución de Quizzes:** 
+- *Resolución de Quizzes:* 
 Los usuarios podrán resolver quizzes de otros usuarios o quizes predeterminados por la aplicación.
+
+- *Interacción Social:* 
+Se permitirá compartir quizzes con amigos mediante enlaces.
+
+- *Ranking y Progreso:* 
+Los usuarios podrán ver sus estadísticas: cantidad de preguntas respondidas, porcentaje de aciertos, y rankings semanales de los mejores jugadores.
