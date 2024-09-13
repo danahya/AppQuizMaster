@@ -45,3 +45,5 @@ Se permitirá compartir quizzes con amigos mediante enlaces.
 
 - *Ranking y Progreso:* 
 Los usuarios podrán ver sus estadísticas: cantidad de preguntas respondidas, porcentaje de aciertos, y rankings semanales de los mejores jugadores.
+
+# *DISEÑO DEL SISTEMA*
