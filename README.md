@@ -10,8 +10,8 @@ AppQuizMaster es una aplicación que permite a los usuarios crear, compartir y r
 Con esta herramienta, los usuarios pueden seleccionar temas de interés, crear sus propias preguntas y respuestas, y realizar un seguimiento de su progreso. 
 Esta aplicación está dirigida a personas de todas las edades que deseen mejorar sus conocimientos, jugar con amigos o simplemente divertirse.
 
-Análisis de requerimientos
-
+## *Análisis de requerimientos*
+La app "AppQuizMaster" permitirá a los usuarios registrarse, crear perfiles y jugar quizzes en diversas categorías con preguntas de opción múltiple, verdadero/falso o texto libre, y diferentes niveles de dificultad. Incluirá un modo multijugador, tablas de clasificación, logros y recompensas. La interfaz será amigable y adaptable a dispositivos iOS, Android y web, asegurando un rendimiento rápido y seguro con protección de datos y mecanismos para evitar trampas. Además, se integrará con redes sociales para compartir resultados y permitirá la monetización mediante anuncios o compras dentro de la app. La base de datos gestionará preguntas, respuestas, progreso de usuarios y multimedia.
 
 ## *Modelo Relacional*
 ![ModeloRelacional_QuizMaster](https://github.com/user-attachments/assets/36f9b473-2bd4-4736-9055-91f621d90e4a)
