@@ -1,21 +1,30 @@
 # AppQuizMaster
 
 ## *DESCRIPCIÓN*
-
+Actualmente, muchas personas disfrutan de las aplicaciones de trivia y quizzes como una forma de entretenimiento, aprendizaje o incluso como desafío entre amigos.
+Sin embargo, a menudo las aplicaciones disponibles no ofrecen la flexibilidad de crear quizzes personalizados ni facilitan una adecuada gestión del contenido por parte de los usuarios. 
+Además, algunas no permiten medir adecuadamente el desempeño de los usuarios en los quizzes o carecen de una interfaz sencilla y accesible.
 
 ## *INTRODUCCIÓN*
 AppQuizMaster es una aplicación que permite a los usuarios crear, compartir y resolver quizzes de manera sencilla y divertida.
 Con esta herramienta, los usuarios pueden seleccionar temas de interés, crear sus propias preguntas y respuestas, y realizar un seguimiento de su progreso. 
 Esta aplicación está dirigida a personas de todas las edades que deseen mejorar sus conocimientos, jugar con amigos o simplemente divertirse.
 
-## *ANÁLISIS DE REQUERIMIENTOS*
-La interfaz será amigable y adaptable a dispositivos iOS, Android y web, asegurando un rendimiento rápido y seguro con protección de datos y mecanismos para evitar trampas. La base de datos gestionará preguntas, respuestas, progreso de usuarios y multimedia.
+## *CONTEXTO DEL PROBLEMA*
+La popularidad de las aplicaciones de quizzes ha crecido significativamente en los últimos años, ya sea como herramientas de educación, entretenimiento o socialización.
+Sin embargo, muchas aplicaciones actuales carecen de flexibilidad y personalización, lo que limita la experiencia del usuario.
+La ausencia de un sistema adecuado para crear quizzes personalizados, compartirlos con otros usuarios y recibir retroalimentación es un desafío en el mercado actual.
+Además, muchas de las plataformas no ofrecen un seguimiento adecuado del desempeño, lo que impide a los usuarios conocer su evolución en el aprendizaje o su éxito en los desafíos.
 
-## *CONTEXTO DEL PROBLEMA* 
-Actualmente, muchas personas disfrutan de las aplicaciones de trivia y quizzes como una forma de entretenimiento, aprendizaje o incluso como desafío entre amigos.
-Sin embargo, a menudo las aplicaciones disponibles no ofrecen la flexibilidad de crear quizzes personalizados ni facilitan una adecuada gestión del contenido por parte de los usuarios. 
-Además, algunas no permiten medir adecuadamente el desempeño de los usuarios en los quizzes o carecen de una interfaz sencilla y accesible.
-
+## *ANÁLISIS DEL REQUERIMIENTOS*
+# Requerimientos Funcionales:
+1. Registro e inicio de sesión de usuarios: Los usuarios deben poder crear una cuenta y acceder con su correo electrónico y contraseña.
+2. Creación de quizzes: Los usuarios deben poder crear quizzes personalizados con sus propias preguntas y respuestas, seleccionando la temática y dificultad.
+3. Resolución de quizzes: Los usuarios pueden responder preguntas dentro de un quiz, con un seguimiento de su progreso y estadísticas.
+4. Modo desafío: Los usuarios podrán competir contra otros en tiempo real, respondiendo preguntas dentro de un tiempo determinado.
+5. Categorías y niveles de dificultad: Los quizzes deben poder ser categorizados por temática (ej. Ciencia, Historia) y tener niveles de dificultad (fácil, medio, difícil).
+6.Compartir quizzes: Los usuarios podrán compartir sus quizzes con otros mediante enlaces o dentro de la plataforma.
+7. Estadísticas de desempeño: Se debe permitir a los usuarios visualizar su rendimiento en los quizzes, con datos como preguntas correctas, puntajes y clasificaciones.
 
 ## *MODELO RELACIONAL*
 ![ModeloRelacional_QuizMaster](https://github.com/user-attachments/assets/36f9b473-2bd4-4736-9055-91f621d90e4a)
