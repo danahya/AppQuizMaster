@@ -18,11 +18,17 @@ Además, muchas de las plataformas no ofrecen un seguimiento adecuado del desemp
 # *ANÁLISIS DEL REQUERIMIENTOS*
 ## Requerimientos Funcionales:
 1. Registro e inicio de sesión de usuarios: Los usuarios deben poder crear una cuenta y acceder con su correo electrónico y contraseña.
+   
 2. Creación de quizzes: Los usuarios deben poder crear quizzes personalizados con sus propias preguntas y respuestas, seleccionando la temática y dificultad.
+   
 3. Resolución de quizzes: Los usuarios pueden responder preguntas dentro de un quiz, con un seguimiento de su progreso y estadísticas.
+
 4. Modo desafío: Los usuarios podrán competir contra otros en tiempo real, respondiendo preguntas dentro de un tiempo determinado.
+   
 5. Categorías y niveles de dificultad: Los quizzes deben poder ser categorizados por temática (ej. Ciencia, Historia) y tener niveles de dificultad (fácil, medio, difícil).
+    
 6.Compartir quizzes: Los usuarios podrán compartir sus quizzes con otros mediante enlaces o dentro de la plataforma.
+
 7. Estadísticas de desempeño: Se debe permitir a los usuarios visualizar su rendimiento en los quizzes, con datos como preguntas correctas, puntajes y clasificaciones.
 
 ## *MODELO RELACIONAL*
