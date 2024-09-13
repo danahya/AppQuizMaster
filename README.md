@@ -30,10 +30,3 @@ Se permitirá compartir quizzes con amigos mediante enlaces.
 
 - **Ranking y Progreso:** 
 Los usuarios podrán ver sus estadísticas: cantidad de preguntas respondidas, porcentaje de aciertos, y rankings semanales de los mejores jugadores.
-
-## Características
-**Creación de Quizzes Personalizados:** Los usuarios podrán crear quizzes con sus propias preguntas y respuestas. Esto fomenta la creatividad y el aprendizaje, permitiendo a los usuarios compartir sus propios cuestionarios con otros.
-**Temáticas Variadas:** Los quizzes podrán clasificarse por temas (ciencia, historia, deportes, etc.), lo que permite a los usuarios elegir según sus intereses.
-**Niveles de Dificultad:** Los usuarios podrán filtrar preguntas o quizzes basados en tres niveles de dificultad: Fácil, Medio y Difícil.
-**Progreso del Usuario:** Se podrá seguir el progreso del usuario, midiendo su desempeño en los quizzes resueltos, con estadísticas de respuestas correctas e incorrectas.
-**Modo Desafío:** Opción para competir con otros usuarios en tiempo real, completando quizzes en modo desafío.
