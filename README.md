@@ -54,3 +54,5 @@ Los usuarios podrán ver sus estadísticas: cantidad de preguntas respondidas, p
 ![imagen (4)](https://github.com/user-attachments/assets/65da6479-31e9-45cd-9421-6d27aec85b1f)
 ![imagen (5)](https://github.com/user-attachments/assets/359a6855-1805-4042-abe5-457b0c8bd137)
 ![imagen (6)](https://github.com/user-attachments/assets/156c5fed-5ad9-4f53-8f98-ed9c811ab8df)
+![imagen (7)](https://github.com/user-attachments/assets/2850aaaa-3e94-4b51-b24b-2d98ecb67470)
+
